@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Conference list
 A list of conferences relevant to people in the civic tech, govtech, tech for good space. Data should contain NAME, DATES (for the next year), and a WEBSITE.
 
@@ -14,7 +18,7 @@ Service Design in Governnment - 20190306 - https://govservicedesign.net/2019/ (E
 TICTeC - 20190319 - https://tictec.mysociety.org/2019 (Paris)
 
 **April**
-Personal Democracy Forum - Gdansk, Poland 4-5 April (with festival of Civic Tech on 6th April) 
+Personal Democracy Forum - Gdansk, Poland 4-5 April (with festival of Civic Tech on 6th April)
 
 **May**
 
