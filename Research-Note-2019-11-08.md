@@ -1,8 +1,5 @@
 # Research Note 2019.11.08
 
-Created By: Alex Blandford
-Last Edited: Nov 08, 2019 7:49 PM
-
 It is important to start by stressing at the start of this that I am wearing only one hat: DPhil candidate in anthropology at Oxford University. If you think I may be wearing another hat you are mistaken. One hat Blangry.
 
 ## Health.
