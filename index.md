@@ -9,4 +9,4 @@ I'm using this page as a set of resources to cover work done on my DPhil so that
 - [Conference list](https://blangry.github.io/thedoctorate/conferences.md)
 
 ### Presentations
-- [CCVS Presentation October 2020}(https://github.com/blangry/thedoctorate/blob/master/CCVS%20presentation.pdf)
+- [CCVS Presentation October 2020](https://github.com/blangry/thedoctorate/blob/master/CCVS%20presentation.pdf)
