@@ -14,6 +14,7 @@ Service Design in Governnment - 20190306 - https://govservicedesign.net/2019/ (E
 TICTeC - 20190319 - https://tictec.mysociety.org/2019 (Paris)
 
 **April**
+
 Personal Democracy Forum - Gdansk, Poland 4-5 April (with festival of Civic Tech on 6th April) 
 
 **May**
@@ -26,10 +27,10 @@ Code for America Summit?
 
 GOVIS - 20190606 - http://govis.org.nz/ (Wellington, NZ)
 
-
-
 **November**
+
 FWD50 - Ottawa 20191106 https://fwd50.com/
+
 ----
 
 - Tictec
